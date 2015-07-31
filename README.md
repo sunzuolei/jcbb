@@ -4,6 +4,7 @@ The demo of loop closure detecting with JCBB algorithm
 **Note:**
 
 Before run the script "run.m", you should set the path by hand. In the Matlab menu, just click Home->Set path>Add folder, and select the path of the file "IEKF and EKF SLAM on DLR data".
+
 **The following files mean :**
 ## Data
 [DLR data set](http://www.informatik.uni-bremen.de/agebv/en/DlrSpatialCognitionDataSet) and experimental data.
